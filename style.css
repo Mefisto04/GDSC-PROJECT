@@ -4,12 +4,10 @@
     box-sizing: border-box;
     
     text-decoration: none;
-  }
-  
+}
   :root {
     --main_theme: #ffa8ff;
   }
-  
   button {
     background: none;
     border: none;
